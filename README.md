@@ -1,7 +1,7 @@
 # Challenge Conversor De Moedas - G8 ONE
 
 
-Uma breve descrição do que seu projeto faz.
+Este projeto é um conversor de moedas, onde o valor inserido em uma moeda através do terminal é consultado por meio de uma API e retorna o valor convertido para a moeda desejada.
 
 ## 🎯 Funcionalidades
 - Converção de valores entre as seguintes moedas
@@ -30,3 +30,9 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-projeto.git
 cd seu-projeto
+```
+
+Importe a biblioteca GSON de acordo com sua IDE.
+
+
+Execulte o projeto via IDE.
