@@ -4,13 +4,15 @@
 Este projeto é um conversor de moedas, onde o valor inserido em uma moeda através do terminal é consultado por meio de uma API e retorna o valor convertido para a moeda desejada.
 
 ## 🎯 Funcionalidades
-- Converção de valores entre as seguintes moedas
-  - Real Brasileiro (BRL)
-  - AUD (Dólar Australiano)
-  - CNY (Yuan Chinês)
-  - MXN (Peso Mexicano)
+- Opções no terminal para converção de moedas:
 
-
+  1) Dólar Australiano para Real
+  2) Yuan Chinês para Real
+  3) Peso Mexicano para Real
+  4) Real para Dólar Australiano
+  5) Real para Yuan Chinês
+  6) Real para Peso Mexicano
+  
 
 ## 🚀 Tecnologias utilizadas
 
